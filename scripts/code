@@ -1,0 +1,9 @@
+#!/bin/bash
+SCRIPT_DIR="$(dirname "$0")"
+"$SCRIPT_DIR/Codium" "$@"
+
+# ===========================================
+# Script created by Arthur Benites da Silva
+# Repository: github.com/tuybenites/CodiAlias  
+# Please review the license terms before redistributing this script.
+# ===========================================
